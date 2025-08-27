@@ -36,11 +36,11 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: rgb(168, 57, 190);
+    color: rgb(222, 157, 244);
     font-size: 2em;
     font-style: georgia ;
     padding: 0.1em 3em;
-    background-color: rgb(218, 163, 235);
+    background-color: rgb(237, 226, 239);
 }
 
 .topic-title ul {
@@ -57,7 +57,7 @@ img {
 .topic-title li a {
     padding: 16px;
     text-decoration: none;
-    color: aqua;
+    color: rgb(245, 248, 248);
 }
 
 .topic-title li:hover {
@@ -79,7 +79,7 @@ img {
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
     background-color: rgb(221, 181, 253);
-    color: rgb(10, 0, 0);
+    color: rgb(245, 244, 244);
     padding: 1em;
     border-radius: 0.5em;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
@@ -96,7 +96,7 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(237, 226, 239);
     color: white;
     text-align: right;
     padding: 3em 3em;

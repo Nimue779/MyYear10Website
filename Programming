@@ -32,7 +32,7 @@
         <div class="topic-content">
             <!-- one "card" which includes an image with a text below it -->
             <div class="topic-card">
-                <img src="images/Blender_Car.png" alt="Car">
+                <img src="images/Grok1.png" alt="Stage 1 of Grok">
                 <h2 class="topic-card-text">Blender car</h2>
             </div>
             <div class="topic-card">

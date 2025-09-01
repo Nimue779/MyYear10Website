@@ -25,14 +25,14 @@
                 <li><a href="compsci.html">Computer Science </a></li>
                 <li><a href="3Dmodel.html">3D Modelling</a></li>
                 <li><a href="Game.html">Game Developement</a></li>
-                <li><a href="Programming.html">Programming</a><li>
+                <li><a href="Programming.html">Programming</a></li>
             </ul>
         </div>
         <!-- now a three column grid of images -->
         <div class="topic-content">
             <!-- one "card" which includes an image with a text below it -->
             <div class="topic-card">
-                <img src="images/Grok1.png" alt="Stage 1 of Grok">
+                <img src="images/Blender_Car.png" alt="Car">
                 <h2 class="topic-card-text">Blender car</h2>
             </div>
             <div class="topic-card">
@@ -58,4 +58,4 @@
 
 <!-- The end of the whole page- no more content after this! -->
 </body>
-</html> 
+</html>
